@@ -46,5 +46,6 @@ public class MainActivity extends AppCompatActivity {
         Toast toast = Toast.makeText(this, "NAME RESET", Toast.LENGTH_SHORT);
         toast.show();
     }
+    //useless
 
 }
